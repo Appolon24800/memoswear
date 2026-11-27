@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MemosWear</string>
+
+    <string name="tile_notes">Recent notes</string>
+    <string name="tile_notes_description">Your newest notes. Tap one to open it.</string>
+    <string name="tile_pinned">Pinned note</string>
+    <string name="tile_pinned_description">Your first pinned note, or the newest one.</string>
+    <string name="tile_capture">New note</string>
+    <string name="tile_capture_description">Start a note without opening the app.</string>
+
+    <string name="complication_label">Memos new note</string>
+    <string name="complication_description">New note</string>
+
+    <string name="shortcut_new_note">New note</string>
+    <string name="shortcut_new_note_long">Write a new note</string>
+    <string name="shortcut_voice_note">Voice note</string>
+    <string name="shortcut_voice_note_long">Speak a new note</string>
+</resources>
